@@ -34,5 +34,5 @@ models:
       # Applies to all files under models/example/
       materialized: table
       vars:
-        client: 'racer-datavarehus'
+        client: 'devold'
         cleanClient: 'Devold'
